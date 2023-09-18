@@ -1,17 +1,31 @@
-# Arya
-Arya est un programme de bot Discord. 🤖 
-(ce bot a été crée sans but précis dons ça risque d'être
- un peu le bazar dans le code et les commandes 😅)
+## Arya
 
-# Utilisation
-## Dépendances
-Ce programme nécessite le module Python 3 ˋdiscordpyˋ
-## Lancement
+Arya is a Discord bot program. 🤖
+
+(This bot was created without a specific purpose, so it may be
+
+A bit of a mess in the code and orders 😅)
+
+# Use
+
+## Dependencies
+
+This program requires the Python 3 `discordpy` module
+
+## Launch
+
 ### Terminal
-Sur une invite de commandes, executez le programme ˋbot.pyˋ
-### Autres
-Pour les autres services (payants par exemple), ne me demandez pas, je sais pas 😂
+
+On a command prompt, run the `bot.py` program
+
+### Others
+
+For other services (paid for example), don't ask me, I don't know 😂
+
 # Modification
-Vous pouvez modifier l'intégralité du programme, 
-ce n'est pas moi qui ai tout créé (le module par exemple). 
-Par contre venez pas chipoter si ça fonctionne plus, ça sera de votre faute. 😉
+
+You can modify the entire program,
+
+It's not me who created everything (the module for example).
+
+On the other hand, don't come and fiddle if it works more, it will be your fault. 😉
